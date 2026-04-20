@@ -195,19 +195,7 @@ These results align perfectly with historical records — 1st class women had a 
 1. Open [Google Colab](https://colab.research.google.com/)
 2. Upload the `.ipynb` notebook file
 3. Run all cells from top to bottom (`Runtime → Run all`)
-
-### Option 2 — Local Setup
-```bash
-# Clone the repository
-git clone https://github.com/YOUR_USERNAME/titanic-ml.git
-cd titanic-ml
-
-# Install dependencies
-pip install pandas numpy matplotlib seaborn scikit-learn xgboost
-
-# Launch Jupyter
-jupyter notebook titanic_survival.ipynb
-```
+---
 
 No manual dataset download needed — the notebook fetches the data directly from the web.
 
